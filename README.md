@@ -1,2 +1,2 @@
 # Aplikasi-Pembayaran-SPP
-Aplikasi Pembayaran SPP Berbasis Dekstop
+Aplikasi Pembayaran SPP Berbasis Desktop
