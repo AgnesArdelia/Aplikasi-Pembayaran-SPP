@@ -1,2 +1,2 @@
 # Aplikasi-Pembayaran-SPP
-Aplikasi Pembayaran SPP Berbasis Desktop. Untuk melengkapi fitur cetak laporan, silahkan download Library Report terlebih dahulu.
+Aplikasi ini dikembangkan menggunakan Java Netbeans. Dikembangkan sebagai project Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan.
